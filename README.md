@@ -1,9 +1,10 @@
-# Canadian Experience — Jack in the Box
+# Sparty in a Box
 
-A C++ desktop animation application built with [wxWidgets](https://www.wxwidgets.org/),
-developed for **CSE 335: Object-Oriented Software Design** at Michigan State University.
+A C++ desktop animation application built with [wxWidgets](https://www.wxwidgets.org/).
+Originally developed as part of Michigan State University's CSE 335 course on
+object-oriented software design.
 
-The program animates a 2D figure ("Canadian Experience") alongside a fully simulated
+The program animates a 2D figure (the "Canadian Experience") alongside a fully simulated
 mechanical machine — a *jack in the box*. Rotational motion originates at a hand crank
 and propagates through a chain of shafts, belted pulleys, and a cam. When the cam reaches
 its trigger point, the box lid springs open and a spring-loaded Sparty (the MSU mascot)
