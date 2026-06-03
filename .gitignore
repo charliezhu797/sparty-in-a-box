@@ -1,0 +1,50 @@
+# --- Build output ---
+# CLion / CMake build directories
+cmake-build-*/
+build/
+out/
+[Bb]uild/
+
+# CMake generated files
+CMakeCache.txt
+CMakeFiles/
+CMakeScripts/
+cmake_install.cmake
+install_manifest.cmake
+CTestTestfile.cmake
+Makefile
+*.cmake
+!CMakeLists.txt
+
+# --- Compiled objects / binaries ---
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dylib
+*.dll
+*.exe
+*.out
+
+# --- Doxygen generated documentation ---
+html/
+latex/
+
+# --- JetBrains CLion / IDE ---
+.idea/
+*.iml
+
+# --- VS Code ---
+.vscode/
+
+# --- macOS ---
+.DS_Store
+
+# --- Windows ---
+Thumbs.db
+Desktop.ini
+
+# --- Misc ---
+*.log
+*.tmp
