@@ -10,6 +10,14 @@ and propagates through a chain of shafts, belted pulleys, and a cam. When the ca
 its trigger point, the box lid springs open and a spring-loaded Sparty (the MSU mascot)
 pops out, all driven by a timeline-based animation system.
 
+## Demo
+
+![Animated demo of the Canadian Experience timeline playing back](docs/demo.gif)
+
+*Keyframed timeline playback: the actors animate while the two embedded machines run.*
+
+![Screenshot of the application](docs/hero.png)
+
 ## Features
 
 - **Mechanical simulation** — A rotation source/sink model drives interconnected
