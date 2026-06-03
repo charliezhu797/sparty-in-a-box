@@ -14,7 +14,13 @@ pops out, all driven by a timeline-based animation system.
 
 ![Animated demo of the Canadian Experience timeline playing back](docs/demo.gif)
 
-*Keyframed timeline playback: the actors animate while the two embedded machines run.*
+*Keyframed timeline playback: the actors animate through the scene.*
+
+Later in the same timeline, the two embedded Sparty-in-a-box machines reach their
+trigger points — the lids fly open and Sparty springs out of each box while the
+actors keep moving:
+
+![Animated demo of the two embedded machines popping open during the timeline](docs/demo_machines.gif)
 
 The standalone Machine Demonstrator runs a single machine from start to finish. The
 hand crank (right) drives a chain of shafts and belted pulleys that slowly rotate the
