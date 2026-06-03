@@ -16,7 +16,14 @@ pops out, all driven by a timeline-based animation system.
 
 *Keyframed timeline playback: the actors animate while the two embedded machines run.*
 
-![Screenshot of the application](docs/hero.png)
+The standalone Machine Demonstrator runs a single machine from start to finish. The
+hand crank (right) drives a chain of shafts and belted pulleys that slowly rotate the
+cam (the white cylinder, top-left). As the cam turns, its hole climbs toward the key
+resting on top; the instant the hole lines up with the key, the key drops in and
+releases the catch — the lid flies open and Sparty springs out of the box on an
+extended coil spring:
+
+![Animated demo of the Machine Demonstrator running the full sequence: crank turns, cam hole rises to the key, key drops, and Sparty springs out of the box](docs/machine.gif)
 
 ## Features
 
